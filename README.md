@@ -1,6 +1,4 @@
-# Employee-Directory
-A React App that allows you to search and filter through a list of employees.
-<h1 align="center"> Employee Directory </h1> 
+<h1 align="center"> Employee Directory 👋 </h1> 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -8,7 +6,7 @@ A React App that allows you to search and filter through a list of employees.
 
  This app was built using React.js. It pulls random employees data from an API call and arranges it into cards, which can be sorted by name or title.
 
- [Heroku Deployed App]()
+ [Heroku Deployed App](https://empldirect.herokuapp.com/)
 
 
   ## Table of Contents
@@ -23,14 +21,16 @@ A React App that allows you to search and filter through a list of employees.
 
   ## Usage
 
-  <img src="" width="100%" alt="start"/>
+  <img src="public/assets/images/employeeDirectory.png" width="100%" alt="start"/>
 
   - Once the employee results load, click on the Name header to sort the table alphabetically from A - Z or Z - A by name. 
 
   🚀 Demos:
   --
-  
-
+  <img src="public/assets/images/start.gif" width="100%" alt="start"/>
+  <br>
+  <br>
+  <img src="public/assets/images/two.gif" width="100%" alt="start"/>
 
   ## Tech Used
 
