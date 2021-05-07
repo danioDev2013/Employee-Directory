@@ -1,0 +1,61 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  h1 {
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+  }
+
+  .margin-auto {
+      margin: 0 auto;
+  }
+
+  .form-width {
+    max-width: 750px;
+    width: 100%;
+  }
+
+  .headerbg {
+    background: rgb(2,0,36);
+    background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+
+  }
+
+  .w-100 {
+      width: 100%;
+  }
+
+
+  table {
+    width:100%;
+  }
+
+  tr {
+    background-color:#ececec;
+    border-bottom: 2px solid #ffffff;
+  }
+
+  tr:hover {
+    background-color:#d2d2d2;
+
+  }
+
+  .white {
+    background-color:white;
+  }
+
+
+  .circle {
+    border-radius: 50%;
+  }
+
+  .cursor {
+    cursor: pointer;
+  }
+
+  .cursor:hover {
+    color:#ececec;
+  }
